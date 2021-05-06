@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/StartingScene 1.unity
     guid: 3dcacdaac47ebb0478b78a6f44207819
   - enabled: 1
-    path: Assets/Scenes/Ocean.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Ocean Scene.unity
+    guid: 9b830e632d78548588d322c373de822e
   - enabled: 1
     path: Assets/Scenes/EndingScene.unity
     guid: c75f0a94bd92ba846ba203c601c603e2
